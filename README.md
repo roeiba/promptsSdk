@@ -9,7 +9,8 @@
 
 promptsSDK is an experimental open-source Python library that provides modular GPT4 prompt engineering capabilities. By breaking down promptsGPT architecture into microprompts, each method is designed to execute a single task in a perfect way with repeatable results. The library aims to make it easier to accomplish complex tasks, such as generating marketing pages, landing pages, reviewing local code, creating tests for projects, and even building full Java applications or mobile APKs.
 
-The library supports multiple AI engines, including paid and completely free options, as well as RevchatGPT.
+The library supports multiple AI engines, including using openAi keys and also a completely free option using [RevchatGPT](https://github.com/acheong08/ChatGPT).
+In addition, it aims to use tools such as [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) in order to leverage the promptSDK.
 
 <h2 align="center"> 💖 Help Fund promptsSDK's Development 💖</h2>
 <p align="center">
@@ -50,29 +51,12 @@ promptsSDK is an experimental project and may come with some limitations:
 2. May not perform well in complex, real-world business scenarios. Please share your results if it does!
 3. Usage costs may vary depending on the AI engine you choose to use
 
-## 🛡 Disclaimer
+For the disclaimer, please see [Disclaimer](disclaimer.md).
 
-This project, promptsSDK, is an experimental application and is provided "as "is" without any warranty, express or implied. By using this software, you agree to assume all risks associated with its use, including but not limited to data loss, system failure, or any other issues that may arise.
-
-The developers and contributors of this project do not accept any responsibility or liability for any losses, damages, or other consequences that may occur as a result of using this software. You are solely responsible for any decisions and actions taken based on the information provided by promptsSDK.
-
-Please note that the use of the GPT-4 language model can be expensive due to its token usage. By utilizing this project, you acknowledge that you are responsible for monitoring and managing your own token usage and the associated costs. It is highly recommended to check your AI engine API usage regularly and set up any necessary limits or alerts to prevent unexpected charges.
-
-As an experimental project, promptsSDK may generate content or take actions that are not in line with real-world business practices or legal requirements. It is your responsibility to ensure that any actions or decisions made based on the output of this software comply with all applicable laws, regulations, and ethical standards. The developers and contributors of this project shall not be held responsible for any consequences arising from the use of this software.
-
-By using promptsSDK, you agree to indemnify, defend, and hold harmless the developers, contributors, and any affiliated parties from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from your use of this software or your violation of these terms.
-
-🐦 Connect with Us
-Stay up-to-date with the latest news, updates, and insights about promptsSDK by following our social media accounts and joining our community channels. Engage with the developers and other users for interesting discussions, project updates, and more.
-
-GitHub: Star the project and contribute to the development by submitting issues or pull requests
-Discord: Join the community and participate in discussions related to the project and its development
-Twitter: Follow for project updates, insights, and announcements
-We look forward to connecting with you and hearing your thoughts, ideas, and experiences with promptsSDK. Join us and let's explore the future of AI together!
-
-<p align="center">
-  <a href="https://star-history.com/#roeiba/promptsSDK&Date">
-    <img src="https://api.star-history.com/svg?repos=roeiba/promptsSDK&type=Date" alt="Star History Chart">
-  </a>
-</p>
-
+<div style="width: 300px; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+  <p align="center">
+    <a href="https://star-history.com/#roeiba/promptsSDK&Date">
+      <img src="https://api.star-history.com/svg?repos=roeiba/promptsSDK&type=Date" alt="Star History Chart">
+    </a>
+  </p>
+</div>
