@@ -53,10 +53,11 @@ promptsSDK is an experimental project and may come with some limitations:
 
 For the disclaimer, please see [Disclaimer](disclaimer.md).
 
-<div style="width: 300px; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+<!-- <div style="width: 300px; height: 200px; overflow: auto; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
   <p align="center">
     <a href="https://star-history.com/#roeiba/promptsSDK&Date">
       <img src="https://api.star-history.com/svg?repos=roeiba/promptsSDK&type=Date" alt="Star History Chart">
     </a>
   </p>
 </div>
+ -->
